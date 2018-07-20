@@ -22,7 +22,7 @@ public class Arrays2 {
 				for(int j=0; j<arr[i].length ;j++) {
 					sum+=arr[i][j];
 				}
-				System.out.println("第"+(i+1)+"个班级的总成绩为："+sum);
+				System.out.println("第"+(i+1)+"个班级的总成绩为： Again "+sum);
 			}
 		}
 	   
